@@ -1,0 +1,7 @@
+@media (min-width: 992px) {
+  .menu-icons {
+    -webkit-box-ordinal-group: 2;
+        -ms-flex-order: 1;
+            order: 1;
+  }
+}
