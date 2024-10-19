@@ -22,3 +22,11 @@
       -ms-flex-pack: justify;
           justify-content: space-between;
 }
+.card-title {
+  font-size: 1.12rem;
+}
+@media (max-width: 991px) {
+  .card {
+    max-width: 100%;
+  }
+}
